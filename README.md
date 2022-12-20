@@ -1,4 +1,4 @@
-### Hi, I'm Celia👋
+### Hi, I'm Celia👋 👩‍💻
 
 <!--
 **Cebalgar/Cebalgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
